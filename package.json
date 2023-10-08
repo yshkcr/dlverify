@@ -1,0 +1,15 @@
+{
+  "name": "dlverify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dlverify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.3.8",
+    "readline-sync": "^1.4.10"
+  }
+}
