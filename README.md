@@ -1,6 +1,4 @@
-# dlverify
-A project for educational purposes, using Puppeteer to validate the expiration date of a Indian driving license.
-# Driving License Validator
+# Driving License Validator (dlverify)
 
 A project for educational purposes, using Puppeteer to validate the expiration date of a Indian driving license.
 
